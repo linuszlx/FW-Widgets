@@ -1,7 +1,7 @@
 {
   "title": "linus's Widgets",
   "description": "A collection of widgets created by linus",
-  "icon": "https://raw.githubusercontent.com/linuszlx/FW-Widgets/blob/main/icon.png",
+  "icon": "https://raw.githubusercontent.com/linuszlx/FW-Widgets/main/icon.png",
   "widgets": [
     {
       "id": "forward.combined.media.lists",
