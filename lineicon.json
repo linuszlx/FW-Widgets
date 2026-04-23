@@ -1,0 +1,31 @@
+{
+	"name":"首页线条图标 @w", 
+	"description":"简约的白色线条图标，适合深色模式使用（UI强迫症友好图标🤣）",  
+	"icons":
+		[
+			{"name":"emby1", "url":"https://raw.githubusercontent.com/wyaing/Forward/refs/heads/main/Page%20icon/line%20icon/emby1.webp"},
+			{"name":"home1", "url":"https://raw.githubusercontent.com/wyaing/Forward/refs/heads/main/Page%20icon/line%20icon/home1.webp"},
+			{"name":"home2", "url":"https://raw.githubusercontent.com/wyaing/Forward/refs/heads/main/Page%20icon/line%20icon/home2.webp"},
+			{"name":"home3", "url":"https://raw.githubusercontent.com/wyaing/Forward/refs/heads/main/Page%20icon/line%20icon/home3.webp"},
+			{"name":"home4", "url":"https://raw.githubusercontent.com/wyaing/Forward/refs/heads/main/Page%20icon/line%20icon/home4.webp"},
+			{"name":"movie", "url":"https://raw.githubusercontent.com/wyaing/Forward/refs/heads/main/Page%20icon/line%20icon/movie.webp"},
+			{"name":"smile", "url":"https://raw.githubusercontent.com/wyaing/Forward/refs/heads/main/Page%20icon/line%20icon/smile.webp"},
+			{"name":"account", "url":"https://raw.githubusercontent.com/wyaing/Forward/refs/heads/main/Page%20icon/line%20icon/account.webp"},
+			{"name":"earth", "url":"https://raw.githubusercontent.com/wyaing/Forward/refs/heads/main/Page%20icon/line%20icon/earth.webp"},
+			{"name":"planet", "url":"https://raw.githubusercontent.com/wyaing/Forward/refs/heads/main/Page%20icon/line%20icon/planet.webp"},
+			{"name":"apple", "url":"https://raw.githubusercontent.com/wyaing/Forward/refs/heads/main/Page%20icon/line%20icon/apple.webp"},
+			{"name":"bilibili", "url":"https://raw.githubusercontent.com/wyaing/Forward/refs/heads/main/Page%20icon/line%20icon/bilibili.webp"},
+			{"name":"youtube", "url":"https://raw.githubusercontent.com/wyaing/Forward/refs/heads/main/Page%20icon/line%20icon/youtube.webp"},
+			{"name":"tv", "url":"https://raw.githubusercontent.com/wyaing/Forward/refs/heads/main/Page%20icon/line%20icon/tv.webp"},
+			{"name":"tv1", "url":"https://raw.githubusercontent.com/wyaing/Forward/refs/heads/main/Page%20icon/line%20icon/tv1.webp"},
+			{"name":"clapperboard.", "url":"https://raw.githubusercontent.com/wyaing/Forward/refs/heads/main/Page%20icon/line%20icon/clapperboard..webp"},
+			{"name":"film", "url":"https://raw.githubusercontent.com/wyaing/Forward/refs/heads/main/Page%20icon/line%20icon/film.webp"},
+			{"name":"movie1", "url":"https://raw.githubusercontent.com/wyaing/Forward/refs/heads/main/Page%20icon/line%20icon/movie1.webp"},
+			{"name":"robot", "url":"https://raw.githubusercontent.com/wyaing/Forward/refs/heads/main/Page%20icon/line%20icon/robot.webp"},
+			{"name":"command", "url":"https://raw.githubusercontent.com/wyaing/Forward/refs/heads/main/Page%20icon/line%20icon/command.webp"},
+			{"name":"play", "url":"https://raw.githubusercontent.com/wyaing/Forward/refs/heads/main/Page%20icon/line%20icon/play.webp"},
+			{"name":"telegram", "url":"https://raw.githubusercontent.com/wyaing/Forward/refs/heads/main/Page%20icon/line%20icon/telegram.webp"},
+			{"name":"bard", "url":"https://raw.githubusercontent.com/wyaing/Forward/refs/heads/main/Page%20icon/line%20icon/bard.webp"},
+			{"name":"mountain", "url":"https://raw.githubusercontent.com/wyaing/Forward/refs/heads/main/Page%20icon/line%20icon/mountain.webp"}
+		]
+}
